@@ -1,0 +1,19 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: mydatabase
+      POSTGRES_USER: cycler11
+      POSTGRES_PASSWORD: Hu74n!kdm
+    ports:
+      - "5432:5432"
+
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: cycler11@example.com
+      PGADMIN_DEFAULT_PASSWORD: Jusy67B73!
+    ports:
+      - "80:80"
+
