@@ -1,4 +1,4 @@
-a simple combination of postgres and pgadmin.
+combination of postgres and pgadmin.
 environmental variables can be changed
 
 to run:
