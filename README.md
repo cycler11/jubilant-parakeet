@@ -1,8 +1,12 @@
-combination of postgres and pgadmin.
-environmental variables can be changed
+Description
+This repository contains a Docker Compose configuration for setting up a PostgreSQL database and pgAdmin for database administration.
 
-to run:
+Prerequisites
+Docker
+Docker Compose
 
-$ docker-compose up -d
+Installation
 
-http://localhost:80
+Clone this repository to your local machine.
+Make sure you have Docker and Docker Compose installed.
+Navigate to the directory where the docker-compose.yml file is located.
