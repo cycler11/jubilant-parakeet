@@ -1,7 +1,9 @@
 Description
+
 This repository contains a Docker Compose configuration for setting up a PostgreSQL database and pgAdmin for database administration.
 
 Prerequisites
+
 Docker
 Docker Compose
 
