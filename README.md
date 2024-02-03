@@ -18,3 +18,12 @@ Starting Services
 To start the PostgreSQL database and pgAdmin, run the following command:
 
 $ docker-compose up -d
+
+Connection
+
+Server Name: Any name.
+Host: "postgres", you can change it in docker-compose file.
+Port: 5432.
+Maintenance DB: "mydatabase".
+Username: "cycler11".
+Password: "Hu74n!kdm".
